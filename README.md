@@ -11,7 +11,9 @@
 | [Driver-Balance Adjustment Pipeline](case-studies/driver-balance-adjustment-pipeline.md) | Python + Google Sheets + n8n batch validation |
 | [Payment Reconciliation SQL Template Library](case-studies/payment-reconciliation-sql-templates.md) | LLM-assisted SQL generation, documentation-as-context |
 | [Chatbot-Callable Finance Tools](case-studies/chatbot-finance-tools.md) | n8n tool workflows หลัง token-verified webhook |
+| [Confluence Knowledge Sync Pipeline](case-studies/confluence-knowledge-sync-pipeline.md) | Python ETL, ingest wiki ขนาดใหญ่สำหรับ LLM retrieval |
 | [Voucher Compensation — Multi-Stage Dispatch Pipeline](case-studies/voucher-compensation-bulk-dispatch.md) | 5-stage n8n pipeline, reproducible deployment |
+| [Revenue & Billing Automation](case-studies/revenue-billing-automation.md) | n8n generate PDF + sync สถานะใบเสนอราคา↔invoicing |
 | [Tax-Document Validation & Alert Workflow](case-studies/wht-document-validation-alert.md) | n8n rule-based document validation |
 | [Reimbursement Edit-Notification Loop](case-studies/wht-edit-notification-loop.md) | Scheduled folder-watch + bounce handling |
 | [Scanned-Document OCR Verification Workflow](case-studies/wht-obh-document-verification.md) | OCR/vision extraction + rule-based approval |
