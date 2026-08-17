@@ -26,7 +26,3 @@
 ## ที่เกี่ยวข้อง
 
 ดู [ai-agent-orchestrator](https://github.com/T5555593838383/ai-agent-orchestrator) ด้วย — multi-agent orchestration system (plan → delegate → review) ที่ build บน Claude API ใช้เป็น coordination layer สำหรับงาน automation ที่กล่าวถึงในนี้
-
-## หมายเหตุเรื่อง scope
-
-นี่คือ internal engineering case study ชื่อบริษัท ชื่อ internal system/tool, ID จริง, และตัวเลขธุรกิจ ตัดออกโดยตั้งใจ สิ่งที่แสดงคือรูปแบบปัญหา, architecture, และผลลัพธ์ ซึ่งเป็นสิ่งที่ transferable และควรค่าแก่การโชว์ใน portfolio จริงๆ
